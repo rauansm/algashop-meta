@@ -10,3 +10,11 @@
 [submodule "microservices/product-catalog"]
 	path = microservices/product-catalog
 	url = https://github.com/rauansm/algashop-product.git
+[submodule "template"]
+	path = template
+	url = https://github.com/rauansm/algashop-template.git
+	branch = main
+[submodule "microservices/billing-scheduler"]
+	path = microservices/billing-scheduler
+	url = https://github.com/rauansm/algashop-billing-scheduler.git
+	branch = develop
